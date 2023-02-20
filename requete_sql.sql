@@ -1,3 +1,5 @@
+RENAME TABLE `order details` TO order_details;
+
 /*Exercice 01*/
 
 SELECT * FROM customers WHERE country = 'France';
